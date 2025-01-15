@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Repositório para aplicação dos aprendizados do curso.dev do Filipe Deschamps.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrepaniguel/clone-tabnews.git"
+  },
+  "author": "André Paniguel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrepaniguel/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/andrepaniguel/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
